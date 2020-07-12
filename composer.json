@@ -1,0 +1,44 @@
+{
+    "type": "symfony-bundle",
+    "name": "luigifab/symfony-apijs-bundle",
+    "description": "JavaScript pop-ups and slideshow for Symfony.",
+    "keywords": ["symfony", "symfony-bundle"],
+    "homepage": "https://github.com/luigifab/symfony-apijs",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Fabrice Creuzot (luigifab)",
+            "homepage": "https://www.luigifab.fr",
+            "email": "code@luigifab.fr"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/luigifab/symfony-apijs/issues",
+        "docs": "https://www.luigifab.fr/apijs"
+    },
+    "funding": [
+        {
+            "type": "other",
+            "url": "https://www.paypal.me/luigifab"
+        },
+        {
+            "type": "other",
+            "url": "https://gandi.link/f/4b904048"
+        },
+        {
+            "type": "other",
+            "url": "https://ekwateur.fr/?parrain=EKW001147103"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "symfony/framework-bundle": ">=5.0.0",
+        "symfony/asset": ">=5.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Luigifab\\Bundle\\ApijsBundle\\": "src/"
+        }
+    }
+}
