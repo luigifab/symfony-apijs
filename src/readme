@@ -1,9 +1,9 @@
 Docs      : https://www.luigifab.fr/apijs
-Mirror    : https://github.com/luigifab/symfony-apijs
+Tracker   : https://github.com/luigifab/symfony-apijs
+Composer  : https://packagist.org/packages/luigifab/symfony-apijs-bundle
 Bundle    : Luigifab/Apijs
 License   : GNU GPL 2+ (https://opensource.org/licenses/gpl-2.0)
 Copyright : 2008-2020 Fabrice Creuzot (luigifab) <code~luigifab~fr>
-
 
 
 
@@ -19,7 +19,7 @@ THAT BEING SAID SOME FILES COME FROM OTHER PROJECTS AND ARE UNDER OTHER LICENSES
 
 
 Notes
-- For the JavaScript application, read: https://www.luigifab.fr/apijs
+- For the app, read: https://www.luigifab.fr/apijs
 - For the Redmine plugin, read: https://www.luigifab.fr/redmine/apijs
 - For the Magento module, read: https://www.luigifab.fr/magento/apijs
 - For the OpenMage module, read: https://www.luigifab.fr/openmage/apijs
@@ -36,6 +36,7 @@ Translations in es-ES (español/España) by:
 - Paco Aguayo <francisco.aguayocanela~gmail~com> 2014
 - Hugo Baugé & Cédric Scaramuzza <info~label-park~com> 2016
 - Pascale Scellier <scellier.pascale~orange~fr> 2016
+- Hélène Vergine <vergineh~gmail~com> 2017, 2020
 - Guillaume Genetet <genetet.incorporated~gmail~com> 2018 https://fr.tipeee.com/william-broome
 Translations in fr-FR (français/France) by:
 - Fabrice Creuzot (luigifab) <code~luigifab~fr> 2008-2020
