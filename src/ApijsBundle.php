@@ -1,9 +1,9 @@
 <?php
 /**
  * Created L/13/07/2020
- * Updated S/10/10/2020
+ * Updated S/12/12/2020
  *
- * Copyright 2008-2020 | Fabrice Creuzot (luigifab) <code~luigifab~fr>
+ * Copyright 2008-2021 | Fabrice Creuzot (luigifab) <code~luigifab~fr>
  * https://www.luigifab.fr/apijs
  *
  * This program is free software, you can redistribute it or modify
@@ -22,5 +22,5 @@ namespace Luigifab\Bundle\ApijsBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class ApijsBundle extends Bundle {
-	public const VERSION = '6.5.0';
+	public const VERSION = '6.6.0';
 }
