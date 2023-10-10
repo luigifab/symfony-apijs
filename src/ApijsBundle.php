@@ -1,7 +1,7 @@
 <?php
 /**
  * Created L/13/07/2020
- * Updated L/24/04/2023
+ * Updated J/21/09/2023
  *
  * Copyright 2008-2023 | Fabrice Creuzot (luigifab) <code~luigifab~fr>
  * https://github.com/luigifab/apijs
@@ -22,5 +22,5 @@ namespace Luigifab\Bundle\ApijsBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class ApijsBundle extends Bundle {
-	public const VERSION = '6.9.4';
+	public const VERSION = '6.9.5';
 }
