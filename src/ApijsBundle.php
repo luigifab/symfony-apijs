@@ -1,10 +1,10 @@
 <?php
 /**
  * Created L/13/07/2020
- * Updated J/21/09/2023
+ * Updated J/12/10/2023
  *
- * Copyright 2008-2023 | Fabrice Creuzot (luigifab) <code~luigifab~fr>
- * https://github.com/luigifab/apijs
+ * Copyright 2008-2024 | Fabrice Creuzot (luigifab) <code~luigifab~fr>
+ * https://github.com/luigifab/sympony-apijs
  *
  * This program is free software, you can redistribute it or modify
  * it under the terms of the GNU General Public License (GPL) as published
@@ -22,5 +22,5 @@ namespace Luigifab\Bundle\ApijsBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class ApijsBundle extends Bundle {
-	public const VERSION = '6.9.5';
+	public const VERSION = '6.9.6';
 }
